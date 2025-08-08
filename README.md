@@ -15,7 +15,6 @@ This project uses a Long Short-Term Memory (LSTM) Recurrent Neural Network (RNN)
 
 * **AI-Powered Text Generation**: Provide a starting phrase ("seed text") and let the model generate the text that follows.
 * **Shakespearean Style**: The generated text mimics the vocabulary, style, and structure found in "Hamlet".
-* **Customizable Output Length**: Specify how many words you want the model to generate.
 * **Interactive UI**: A simple and clean web interface built with Streamlit to easily interact with the trained model.
 
 ***
